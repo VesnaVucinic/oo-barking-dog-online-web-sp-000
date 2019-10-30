@@ -17,4 +17,4 @@ end
 
 masha = Dog.new 
 masha.name = "Masha"
-masha.name
+masha.bark
