@@ -13,3 +13,6 @@ class Dog
   end
 end
 
+masha = Dog.new 
+masha.name = "Masha"
+masha.name
